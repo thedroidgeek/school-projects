@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SupCooking</string>
+
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="error_invalid_username">The username is too short</string>
+    <string name="error_invalid_password">The password is too short</string>
+    <string name="error_bad_credentials">Wrong username and/or password</string>
+    <string name="error_field_required">This field is required</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_search">Search</string>
+    <string name="no_content">No recipe to show</string>
+    <string name="title_view_recipe">Trending Recipes</string>
+    <string name="title_view_user_recipe">My Recipes</string>
+    <string name="label_review_by_user">Your review</string>
+    <string name="label_recipe_picture_not_selected">No picture selected</string>
+    <string name="label_recipe_picture_selected">A picture is selected</string>
+    <string name="search_recipes_hint">Search Recipes</string>
+</resources>

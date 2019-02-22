@@ -1,0 +1,2 @@
+Present in the following directory are two folders containing a bunch of relevent configuration files as well as two bash scripts.
+Do note that all said files are renamed to their actual full paths in the servers, with the directory separator ('/') being represented as two underscores ('__').
